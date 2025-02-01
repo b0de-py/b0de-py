@@ -1,20 +1,20 @@
 <p align="center">
   <a href="https://linkedin.com/in/raul-gouveia">
-    <img src="https://github.com/b0de-py/b0de-py/blob/master/assets/queluairmao.png" alt="Banner">
+     <img src="assets/queluairmao.gif" alt="Banner" width="600">
   </a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://linkedin.com/in/raul-gouveia">Raul Gouveia</a>!</h1>
 <p align="center">
   <a href="https://linkedin.com/in/raul-gouveia">
-    <img src="https://github.com/b0de-py/b0de-py/blob/master/assets/putfire.png" alt="b0de-py">
+    <img src="assets/putfire-nobg.png" alt="b0de-py" width="100">
   </a>
 </p>
 <h2 align="center">Elen síla lúmenn' omentielvo! <p>Welcome, traveler from afar, to the humble abode of <i>b0de-py</i>.</p></h2>
 
 <p align="center">
-  <h3 align="center">Lara's proud father ❤</h1>
-  A DevOps Engineer driven by a deep passion for technology, a constant desire to learn, and a lifelong love for my <b>family</b> and <b>Botafogo</b>.
+  <h3 align="center">Lara's proud father ❤</h3>
+  <p align="center">A DevOps Engineer driven by a deep passion for technology, a constant desire to learn, and a lifelong love for my <b>family</b> and <b>Botafogo</b>.</p>
 </p>
 <p align="center">
   <i>(on GitHub, focusing on Python, Rust & Javascript code quality)</i>
