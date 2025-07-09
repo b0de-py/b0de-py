@@ -10,7 +10,7 @@
     <img src="assets/putfire-nobg.png" alt="b0de-py" width="100">
   </a>
 </p>
-<h2 align="center">Elen síla lúmenn' omentielvo! <p>Welcome, traveler from afar, to the humble abode of <i>b0de-py</i>.</p></h2>
+<h2 align="center">Elen síla lúmenn' omentielvo! </h2>
 
 <p align="center">
   <h3 align="center">Lara's proud father ❤</h3>
