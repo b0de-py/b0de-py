@@ -14,7 +14,7 @@
 
 <p align="center">
   <h3 align="center">Lara's proud father ❤</h3>
-  <p align="center">A DevOps Engineer driven by a deep passion for technology, a constant desire to learn, and a lifelong love for my <b>family</b> and <b>Botafogo</b>.</p>
+  <p align="center">A DevOps Engineer driven by a deep passion for technology, a constant desire to learn, and a lifelong love for my <b>Family</b> and <b>Botafogo</b>.</p>
 </p>
 <p align="center">
   <i>(on GitHub, focusing on Python, Rust & Javascript code quality)</i>
