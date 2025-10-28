@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm <a href="https://linkedin.com/in/raul-gouveia">Raul Gouveia</a>!</h1>
-<p align="center">
-  <a href="https://linkedin.com/in/raul-gouveia">
-    <img src="assets/putfire-nobg.png" alt="b0de-py" width="100">
-  </a>
-</p>
 <h2 align="center">Elen síla lúmenn' omentielvo! </h2>
 
 <p align="center">
@@ -23,12 +18,6 @@
 
 <p align="center">
   <a href="https://github.com/b0de-py"><img src="https://github-readme-stats.vercel.app/api?username=b0de-py&hide_border=true&show_icons=true" alt="b0de-py's stats"></a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/raul-gouveia">
-     <img src="assets/queluairmao.gif" alt="Banner" width="600">
-  </a>
 </p>
 
 <!--
