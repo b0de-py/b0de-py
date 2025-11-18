@@ -17,9 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/b0de-py">
-    <img src="https://github-readme-stats-ot4e8wfwo-b0depys-projects.vercel.app/api?username=b0de-py&hide_border=true&show_icons=true&count_private=true" alt="b0de-py's stats">
-  </a>
+  <img src="https://github-readme-stats-ot4e8wfwo-b0depys-projects.vercel.app/api?username=b0de-py&hide_border=true&show_icons=true&count_private=true" alt="b0de-py's stats">
 </p>
 
 <!--
