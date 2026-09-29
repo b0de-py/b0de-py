@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-phi-six-58.vercel.app/api?username=b0de-py&hide_border=true&show_icons=true&count_private=true" alt="b0de-py's stats">
+  <img src="./github-metrics.svg" alt="b0de-py's GitHub metrics">
 </p>
 
 <!--
