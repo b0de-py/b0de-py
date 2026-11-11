@@ -1,19 +1,12 @@
-<h1 align="center">Hi, I'm <a href="https://linkedin.com/in/raul-gouveia">Raul Gouveia</a>!</h1>
-<h2 align="center">Elen síla lúmenn' omentielvo! </h2>
-
 <p align="center">
-  <h3 align="center">Lara's proud father ❤</h3>
-  <p align="center">A DevOps Engineer driven by a deep passion for technology, a constant desire to learn, and a lifelong love for my family.
-</p>
-<p align="center">
-  <i>(on GitHub, focusing on Python, Rust & Javascript code quality)</i>
+  <img src="./profile.svg" width="100%" alt="Raul Gouveia :: DevOps // SRE // AI-Ops. Lara's proud father. DevOps Engineer (currently at Getronics) leaning more and more into SRE and AI applied to DevOps: pipelines that don't break at 3 a.m. and automation that does the boring part for me. Kubernetes, Docker, GitHub Actions and GitLab CI day to day, Ansible and Terraform for infra, Azure and AWS in the cloud, and Python/Rust whenever there's code to write (so, always).">
 </p>
 
 <p align="center">
-  <strong><a href="https://r4ul.com.br">Website</a></strong> |
-  <strong><a href="https://linkedin.com/in/raul-gouveia">LinkedIn</a></strong> |
-  <strong><a href="https://x.com/luardobode">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/4dMb6T6X">Discord</a></strong>
+  <a href="https://r4ul.com.br"><img src="./btn-website.svg" alt="Website"></a>
+  <a href="https://linkedin.com/in/raul-gouveia"><img src="./btn-linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://x.com/luardobode"><img src="./btn-twitter.svg" alt="Twitter"></a>
+  <a href="https://discord.gg/4dMb6T6X"><img src="./btn-discord.svg" alt="Discord"></a>
 </p>
 
 <p align="center">

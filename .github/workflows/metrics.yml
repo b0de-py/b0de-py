@@ -37,6 +37,15 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
+          # Painel preto no estilo do site (fundo, borda e cores do r4ul.com.br)
+          extras_css: |
+            :root{background:#0a0a0a;outline:1px solid #2a2a2a;outline-offset:-1px}
+            svg{color:#b0b0b0}
+            .items-wrapper svg{fill:#666}
+            h2,h3{color:#00ff00 !important}
+            h2 svg,h3 svg{fill:#00ff00 !important}
+            .field{color:#b0b0b0}
+
           # Deliberately NOT enabled (they can print repo names):
           # plugin_activity, plugin_notable, plugin_lines, plugin_habits,
           # plugin_topics, plugin_stars, plugin_pagespeed, plugin_projects
